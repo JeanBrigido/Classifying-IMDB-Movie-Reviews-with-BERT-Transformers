@@ -34,7 +34,3 @@ The project focuses on classifying movie reviews into three aspects:
 
 - Simple Neural Network: 68% accuracy
 - Fine-tuned TinyBERT: 92% accuracy
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
